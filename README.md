@@ -778,17 +778,3 @@ The production design includes:
 The current repository implements the autonomous research prototype and its loop-safety mechanisms. The full production LangGraph state graph is not yet implemented.
 
 ---
-
-## ⚠️ Important Disclaimer
-
-This project is a technical demonstration of autonomous AI research architecture.
-
-LLM-generated research outputs should be independently verified before being used for academic, professional, scientific, or other high-stakes decisions.
-
----
-
-## 👨‍💻 Author
-
-**Sciddhanto Sinha**
-
-B.Tech – Computer Science Engineering (AI & Analytics)
